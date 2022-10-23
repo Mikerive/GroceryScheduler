@@ -1,0 +1,24 @@
+h1 {
+ display: flex;
+ justify-content: center;
+ font-size: 50px;
+ color: gray;
+}
+
+.month {
+  color: white;
+}
+
+.weekend {
+ color:#FF0000;
+}
+
+.sept {
+  justify-content:flex;
+  margin-bottom:2rem;
+}
+
+.links {
+  text-decoration: none;
+  color:inherit;
+}
